@@ -382,6 +382,9 @@ footer{
     .input-box input{
         padding: 0.53m 1em;
     }
+    .input-box button{
+        color: black;
+    }
 
     footer{
         flex-direction: column;
